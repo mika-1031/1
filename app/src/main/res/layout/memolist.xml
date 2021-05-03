@@ -27,7 +27,7 @@
         android:background="@drawable/line"
         android:ems="10"
         android:gravity="top"
-        android:hint="  메모 내용이 입력될 장소"
+        android:hint="  메모 내용 입력 장소"
         android:inputType="textMultiLine|textNoSuggestions"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
